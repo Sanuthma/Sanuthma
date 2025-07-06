@@ -23,7 +23,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="40" height="40"/>
   </a>
 </p>
-- 📫 Reach me at: **sanumunasinghe02@gmail.com**
+- 📫 Reach me at: sanumunasinghe02@gmail.com
 
 ---
 
